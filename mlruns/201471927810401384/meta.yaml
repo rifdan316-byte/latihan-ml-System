@@ -1,0 +1,9 @@
+artifact_location: mlflow-artifacts:/201471927810401384
+creation_time: 1780537211771
+effective_trace_archival_retention: null
+experiment_id: '201471927810401384'
+last_update_time: 1780537211771
+lifecycle_stage: active
+name: Latihan Credit Scoring
+trace_location: null
+workspace: default
